@@ -2,7 +2,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20github&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20github%20profile&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 ## Skill Set 
@@ -32,13 +32,12 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|--|--|
 
 
+
 <br>
 <br>
-<br>
-<br>
-Technologies that I am interested in or currently learning:
 
 **Skill in progress**
+Technologies that I am interested in or currently learning:
 
 <img title="NextJS" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Prisma" alt="Prisma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
 |--|--|
