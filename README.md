@@ -36,19 +36,19 @@ These are some of the major technologies that I am skilled in or have worked on 
 
 ### **Libraries and Frameworks**
 
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="TailwindCSS" alt="TailwindCSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="TailwindCSS" alt="TailwindCSS" width="40px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|
 |--|--|--|
 
 
 ### **Database Tech**
 
-<img title="MongoDB" alt="MongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png">
+<img title="MongoDB" alt="MongoDB" width="40px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png">
 |--|--|
 
 
 ### **Tools**
 
-<img title="Windows 11" alt="Windows 11" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">|<img title="Bash" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Neovim" alt="Neovim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img title="Windows 11" alt="Windows 11" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">|<img title="Bash" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Neovim" alt="Neovim" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37">|<img title="git" alt="git" width="40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
 |--|--|--|--|--|--|
 
 <br>
