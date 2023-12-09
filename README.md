@@ -32,7 +32,7 @@ These are some of the major technologies that I am skilled in or have worked on 
 ### **Programming Languages**
 
 <img alt="HTML" title="HTML" width="40px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">|<img alt="CSS" title="CSS" width="40px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-|--|--|--|
+|--|--|--|--|--|
 
 ### **Libraries and Frameworks**
 
@@ -49,7 +49,7 @@ These are some of the major technologies that I am skilled in or have worked on 
 ### **Tools**
 
 <img title="Windows 11" alt="Windows 11" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg">|<img title="Linux" alt="Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">|<img title="Bash" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Neovim" alt="Neovim" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37">|<img title="git" alt="git" width="40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">|<img title="Vite" alt="Vite" width="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35">
-|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|
 
 <br>
 <br>
