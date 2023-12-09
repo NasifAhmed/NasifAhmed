@@ -14,7 +14,7 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-nasif2ahmed-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasif2ahmed/)](https://www.linkedin.com/in/nasif2ahmed/)
   [![Gmail Badge](https://img.shields.io/badge/-nasif2ahmed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nasif2ahmed@gmail.com)](mailto:nasif2ahmed@gmail.com)
-  [![Twitter Badge](https://img.shields.io/badge/-nasif2ahmed-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=mailto:nasif2ahmed@gmail.com)](mailto:nasif2ahmed@gmail.com)
+  [![Twitter Badge](https://img.shields.io/badge/-@nasif2ahmed-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/nasif2ahmed)](https://www.twitter.com/nasif2ahmed)
 </div>
 <div align="center">
 
