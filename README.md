@@ -5,19 +5,22 @@
 </p>
 
 ![Header](./images/banner.png)
-<p align="left">
+<p align="center">
   I build full stack websites with responsive and eye catching UI with efficient and structured backend. I am enthusiastic about the ever-changing web development world, linux and FOSS culture.<br> 
   My favorite tech to work with are Tailwind, React and Typescript. 
 </p>
 
-<div align="left">
+<div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-nasif2ahmed-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasif2ahmed/)](https://www.linkedin.com/in/nasif2ahmed/)
   [![Gmail Badge](https://img.shields.io/badge/-nasif2ahmed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nasif2ahmed@gmail.com)](mailto:nasif2ahmed@gmail.com)
   [![Twitter Badge](https://img.shields.io/badge/-nasif2ahmed-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=mailto:nasif2ahmed@gmail.com)](mailto:nasif2ahmed@gmail.com)
 </div>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=NasifAhmed&label=Profile%20Visits&color=blue&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=NasifAhmed&label=Profile%20Visits&color=blue&style=for-the-badge)
+</div>
+
 <hr>
 
 ## Skill Set 
@@ -49,7 +52,7 @@ These are some of the major technologies that I am skilled at or have worked on 
 <br>
 <br>
 
-### **Skill in progress**
+## **Skill in progress**
 
 Technologies that I am interested in or currently learning:
 
