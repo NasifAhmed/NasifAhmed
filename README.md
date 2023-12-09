@@ -6,7 +6,7 @@
 
 ![Header](./images/banner.png)
 <p align="center">
-  I build full stack websites with responsive and eye catching UI with efficient and structured backend. I am enthusiastic about the ever-changing web development world, linux and FOSS culture.<br> 
+  I build full stack websites with responsive and eye catching UI with efficient and structured backend. <br> I am enthusiastic about the ever-changing web development world, linux and FOSS culture.<br> 
   My favorite tech to work with are Tailwind, React and Typescript. 
 </p>
 
