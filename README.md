@@ -44,9 +44,9 @@ Technologies that I am interested in or currently learning:
 <hr>
 <h1 align="center">Stats</h1>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=NasifAhmed&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=NasifAhmed&layout=compact&hide_border=true&theme=gruvbox&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=dwm,dotfiles,mpv,better-mpv-config">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=NasifAhmed&theme=gruvbox&hide_border=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=NasifAhmed&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=NasifAhmed&layout=compact&hide_border=true&theme=github_dark&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=dwm,dotfiles,mpv,better-mpv-config">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=NasifAhmed&theme=github_dark&hide_border=true">
   <br>
   <br>
 </p>
