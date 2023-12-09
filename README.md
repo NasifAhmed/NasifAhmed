@@ -7,7 +7,9 @@
 ![Header](./images/banner.png)
 <p align="center">
   I build full stack websites with responsive and eye catching UI with efficient and structured backend. <br> I am enthusiastic about the ever-changing web development world, linux and FOSS culture.<br> 
-  My favorite tech to work with are Tailwind, React and Typescript. 
+  My favorite tech to work with are Tailwind, React and Typescript. <br>
+  <br>
+  My goal is to become a senior web developer and work in devops field in future 
 </p>
 
 <div align="center">
@@ -25,7 +27,7 @@
 
 ## Skill Set 
 
-These are some of the major technologies that I am skilled at or have worked on in the past:
+These are some of the major technologies that I am skilled in or have worked on in the past:
 
 ### **Programming Languages**
 
