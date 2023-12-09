@@ -8,6 +8,7 @@ Nasif Ahmed
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experience%20in%20MERN%20Stack%20and%20Java;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+![Visitor Count](https : //profile-counter.glitch.me/NasifAhmed/count.svg)
 
 <!--
 **NasifAhmed/NasifAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
