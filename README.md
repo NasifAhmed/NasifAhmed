@@ -48,7 +48,7 @@ These are some of the major technologies that I am skilled in or have worked on 
 
 ### **Tools**
 
-<img title="WSL" alt="WSL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">|<img title="Bash" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="VS Code" alt="VS Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img title="Windows 11" alt="Windows 11" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">|<img title="Bash" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Neovim" alt="Neovim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 |--|--|--|--|--|--|
 
 <br>
