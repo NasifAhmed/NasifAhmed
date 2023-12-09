@@ -56,7 +56,7 @@ These are some of the major technologies that I am skilled at or have worked on 
 
 Technologies that I am interested in or currently learning:
 
-<img title="NextJS" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Prisma" alt="Prisma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
+<img title="NextJS" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
 |--|--|
 <hr>
 <h1 align="center">Stats</h1>
