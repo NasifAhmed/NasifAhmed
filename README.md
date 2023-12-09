@@ -7,7 +7,7 @@
 ![Header](./images/banner.png)
 <p align="center">
   I build full stack websites with responsive and eye catching UI with efficient and structured backend. <br> I am enthusiastic about the ever-changing web development world, linux and FOSS culture.<br> 
-  My favorite tech to work with are **Tailwind**, **React** and **Typescript**. <br>
+  My favorite tech to work with are <b>Tailwind</b>, <b>React</b> and <b>Typescript</b>. <br>
   <br>
   My goal is to become a senior full stack web developer/engineer and work in devops field in future 
 </p>
