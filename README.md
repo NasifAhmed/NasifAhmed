@@ -67,19 +67,25 @@ Technologies that I am interested in or currently learning:
 <h3> Medi Camp</h3>
 <p>A medical camp management website.</p>
 <p><ins>Tech Used</ins> : Typescript, React, Tailwind, Nodejs, Expressjs, Mongoose</p>
-<p><ins>Link</ins> : <a href="https://medi-camp.web.app/">Here</a></p>
+<p><ins>Site Link</ins> : <a href="https://medi-camp.web.app/">Here</a></p>
+<p><ins>Client Side Repo</ins> : <a href="https://github.com/NasifAhmed/medi-camp-client">Here</a></p>
+<p><ins>Server Side Repo</ins> : <a href="https://github.com/NasifAhmed/medi-camp-server">Here</a></p>
 </li>
 <li>
 <h3> Blog.it</h3>
 <p>A free user friendly blog writing+reading website.</p>
 <p><ins>Tech Used</ins> : React, Tailwind, Nodejs, Expressjs, MongoDB</p>
-<p><ins>Link</ins> : <a href="https://assignment-11-d1439.web.app/">Here</a></p>
+<p><ins>Site Link</ins> : <a href="https://assignment-11-d1439.web.app/">Here</a></p>
+<p><ins>Client Side Repo</ins> : <a href="https://github.com/NasifAhmed/blog-it-client">Here</a></p>
+<p><ins>Server Side Repo</ins> : <a href="https://github.com/NasifAhmed/blog-it-server">Here</a></p>
 </li>
 <li>
 <h3> Car Mania</h3>
 <p>A brand shop website for cars of different brands.</p>
 <p><ins>Tech Used</ins> : React, Tailwind, Nodejs, Expressjs, MongoDB</p>
-<p><ins>Link</ins> : <a href="https://assignment10-7d9a2.web.app/">Here</a></p>
+<p><ins>Site Link</ins> : <a href="https://assignment10-7d9a2.web.app/">Here</a></p>
+<p><ins>Client Side Repo</ins> : <a href="https://github.com/NasifAhmed/brand-shop-client">Here</a></p>
+<p><ins>Server Side Repo</ins> : <a href="https://github.com/NasifAhmed/brand-shop-server">Here</a></p>
 </li>
 </ol>
 <hr>
