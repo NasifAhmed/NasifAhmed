@@ -9,9 +9,10 @@
   I build full stack websites with responsive and eye catching UI with efficient and structured backend. I am enthusiastic about the ever-changing web development world, linux and FOSS culture. My favorite tech to work with are Tailwind, React and Typescript. 
 </p>
 <hr>
+
 ## Skill Set 
 
-These are some of the major technologies that I use or have worked on in the past:
+These are some of the major technologies that I am skilled at or have worked on in the past:
 
 **Programming Languages**
 
