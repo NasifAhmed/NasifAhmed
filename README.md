@@ -37,6 +37,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 **Skill in progress**
+
 Technologies that I am interested in or currently learning:
 
 <img title="NextJS" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Prisma" alt="Prisma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
