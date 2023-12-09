@@ -61,6 +61,28 @@ Technologies that I am interested in or currently learning:
 <img title="NextJS" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
 |--|--|
 <hr>
+<h1 align="center">Projects</h1>
+<ol>
+<li>
+<h3> Medi Camp</h3>
+<p>A medical camp management website.</p>
+<p><ins>Tech Used</ins> : Typescript, React, Tailwind, Nodejs, Expressjs, Mongoose</p>
+<p><ins>Link</ins> : <a href="https://medi-camp.web.app/">Here</a></p>
+</li>
+<li>
+<h3> Blog.it</h3>
+<p>A free user friendly blog writing+reading website.</p>
+<p><ins>Tech Used</ins> : React, Tailwind, Nodejs, Expressjs, MongoDB</p>
+<p><ins>Link</ins> : <a href="https://assignment-11-d1439.web.app/">Here</a></p>
+</li>
+<li>
+<h3> Car Mania</h3>
+<p>A brand shop website for cars of different brands.</p>
+<p><ins>Tech Used</ins> : React, Tailwind, Nodejs, Expressjs, MongoDB</p>
+<p><ins>Link</ins> : <a href="https://assignment10-7d9a2.web.app/">Here</a></p>
+</li>
+</ol>
+<hr>
 <h1 align="center">Stats</h1>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=NasifAhmed&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs">
