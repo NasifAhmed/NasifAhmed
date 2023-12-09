@@ -61,7 +61,7 @@ Technologies that I am interested in or currently learning:
 <img title="NextJS" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
 |--|--|
 <hr>
-<h1 align="center">Projects</h1>
+<h1 align="center">Recent Projects</h1>
 <ol>
 <li>
 <h3> Medi Camp</h3>
