@@ -5,6 +5,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20github%20profile&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+I build full stack websites with responsive and eye catching UI with efficient and structured backend. I am enthusiastic about the ever-changing web development world, linux and FOSS culture. My favorite tech to work with are Tailwind, React and Typescript.
+
 ## Skill Set 
 
 These are some of the major technologies that I use or have worked on in the past:
