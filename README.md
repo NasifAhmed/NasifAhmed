@@ -66,7 +66,14 @@ Technologies that I am interested in or currently learning:
 <h1 align="center">Recent Projects (Latest first)</h1>
 <ul>
 <li>
-<h3> Muslim Daily Dashboard (In development)</h3>
+<h3> Quran Explorer</h3>
+<p>A easy to use Quran verse search tool that deeply understand user prompts with LLM.</p>
+<p><ins>Tech Used</ins> : Typescript, Next.js, React, Tailwind, Hono.js, Cloudflare Workers, Llama 3.2</p>
+<p><ins>Site Link</ins> : <a href="https://quran-verse-ai.vercel.app/">Here</a></p>
+<p><ins>Source Repo</ins> : <a href="https://github.com/NasifAhmed/quran-verse-ai">Here</a></p>
+</li>
+<li>
+<h3> Muslim Daily Dashboard</h3>
 <p>A daily prayer and fast times dashboard for Muslims.</p>
 <p><ins>Tech Used</ins> : Typescript, Next.js, React, Tailwind</p>
 <p><ins>Site Link</ins> : <a href="https://muslim-daily-dashboard.vercel.app/">Here</a></p>
